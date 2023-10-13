@@ -1,5 +1,5 @@
 /*
-    Titre : PlusGrandeValeur
+    Titre : Class PlusGrandeValeur
     Auteur : ARAGRAG AYOUB
     Date : 13-10-2023
     Description: Ce programme génère un tableau de 15 valeurs aléatoires entre 10 et 100,
